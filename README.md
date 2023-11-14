@@ -10,6 +10,12 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 4. Write a Report on the Neural Network Model
 5. Copy files into Repository
 
+## Files
+1. Cleaned Data Excel File
+2. Neural Network Model Report
+3. Folder with Generated Models
+4. Folder with Notebooks
+
 ## Dependencies
 1. sklearn
 2. pandas
